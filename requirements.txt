@@ -1,0 +1,17 @@
+pandas>=1.4.2
+jupyter>=1.0.0
+scikit-learn>=1.1.1
+sparkmagic>=0.20.0
+Kqlmagic>=0.1.114.post19
+powershell_kernel>=0.1.4
+notebook-as-pdf>=0.5.0
+nbconvert>=6.5.0
+papermill>=2.3.4
+rich>=12.4.4
+black>=22.3.0
+ipython-sql>=0.4.1
+SQLAlchemy>=1.4.37
+pyodbc>=4.0.32
+cx-Oracle>=8.3.0
+mysqlclient>=2.1.0
+psycopg[binary,pool]>=3.0.15
